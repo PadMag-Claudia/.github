@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I'm developer, and this is my space as an organizational site.
+
 <!--
 
 **Here are some ideas to get you started:**
